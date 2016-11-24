@@ -12,10 +12,10 @@
 
 .box{
 	border: thin solid red;
-	height: 29px;
-	width: 33px;
-	background-color: blue; 
+	background-color: white; 
 	display: inline-block;
+	box-sizing: border-box;
+	float: left;
 	padding: 0;
 	margin: 0;
 
